@@ -1,0 +1,41 @@
+
+body {
+  background-color:rgb(78, 90, 109)
+}
+
+h1 {
+  font-family:serif;
+  
+  
+}
+
+h2 {
+  color:rgb(0, 0, 0);
+  font-family:serif;
+  }
+
+a {
+  color: rgb(0,0,0);
+  font-family:inherit;
+}
+
+p {
+  font-family: monospace;
+  font-size: 15px;
+}
+
+img {
+
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+      position: absolute; 
+bottom: 0;
+left: 0;
+}
